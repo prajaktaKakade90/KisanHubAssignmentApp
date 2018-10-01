@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KisanHubAssignmentApp</string>
+    <string name="article_type">Article Type :</string>
+    <string name="str_published_on">Published on </string>
+    <string name="title_activity_article_details">ArticleDetailsActivity</string>
+    <string name="by">By Prajakta Kakade</string>
+</resources>

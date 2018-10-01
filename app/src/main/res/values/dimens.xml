@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padd_6">6dp</dimen>
+    <dimen name="padd_60">60dp</dimen>
+    <dimen name="padd_200">180dp</dimen>
+    <dimen name="padd_120">120dp</dimen>
+    <dimen name="size_20sp">20sp</dimen>
+    <dimen name="padd_90">90dp</dimen>
+    <dimen name="padd_4">4dp</dimen>
+    <dimen name="size_16sp">16sp</dimen>
+    <dimen name="size_14sp">14sp</dimen>
+    <dimen name="size_12sp">12sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padd_12">12dp</dimen>
+</resources>
